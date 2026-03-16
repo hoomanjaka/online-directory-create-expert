@@ -85,5 +85,10 @@ Yes. The workflow is geo‑agnostic and supports registry, phone, and low‑web 
 **Do I need a dataset first?**  
 No. If you provide only a country or region, the agent will collect a starter dataset.
 
+## Project Policies
+- Code of Conduct: CODE_OF_CONDUCT.md
+- Security Policy: SECURITY.md
+- Pull Request Template: .github/PULL_REQUEST_TEMPLATE.md
+
 ## SEO Keywords
 AI directory builder, online directory skill, niche discovery workflow, geo‑agnostic data enrichment, Claude skill, Codex skill, directory data pipeline, registry‑based verification, business listings dataset, directory website data, AI marketplace dataset, directory research workflow.

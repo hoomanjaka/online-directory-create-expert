@@ -1,5 +1,7 @@
 # Online Directory Create Expert Skill for Claude and Codex 🚀
 
+![Hero](assets/main.png)
+
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)
 ![Downloads](https://img.shields.io/badge/Downloads-Package-yellow.svg)
@@ -31,7 +33,7 @@ Most directory projects fail at the data stage. This skill focuses on the hardes
 3. Clean, verify, and enrich listings into a structured dataset.
 4. Produce a handoff package for website creation (website build is out of scope).
 
-![Workflow](assets/workflow.svg)
+![Workflow](assets/workflow.png)
 
 ## Example Output (Tiny Sample)
 ```csv
